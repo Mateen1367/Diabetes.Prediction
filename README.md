@@ -180,19 +180,6 @@ The results show that machine learning can help identify patterns in healthcare 
 
 ---
 
-## Kaggle Submission
-After training the model, the final model can be applied to the challenge test dataset to generate predictions.
-
-The prediction file can then be saved as a submission file for Kaggle.
-
-Kaggle Score:  
-`Add your Kaggle score here if available`
-
-Submission File:  
-`Add submission file name here, for example: submission.csv`
-
----
-
 ## Future Improvements
 This project could be improved by:
 
