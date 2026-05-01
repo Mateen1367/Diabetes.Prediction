@@ -19,10 +19,8 @@ The project follows the main steps of a data science workflow: defining the prob
 
 ## Project Link
 Kaggle Dataset / Challenge Link:  
-`Add your Kaggle dataset or competition link here`
-
-GitHub Repository Link:  
-`Add your GitHub repository link here`
+_https://www.kaggle.com/competitions/diabetes-prediction-with-nn/rules
+_
 
 ---
 
