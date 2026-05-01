@@ -193,6 +193,6 @@ This project could be improved by:
 ---
 
 ## Conclusion
-Overall, this project demonstrates the main steps of a tabular machine learning classification project. The notebook loads the data, explores the features, checks for missing values and outliers, creates visualizations, prepares the data, trains a Logistic Regression model, and evaluates the results.
+- Overall, this project demonstrates the main steps of a tabular machine learning classification project. The notebook loads the data, explores the features, checks for missing values and outliers, creates visualizations, prepares the data, trains a Logistic Regression model, and evaluates the results.
 ---
 
